@@ -19,6 +19,10 @@
   ],
   "author": "caasi Huang",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/caasi/use-cont"
+  },
   "devDependencies": {
     "@swc/core": "^1.3.105",
     "@testing-library/jest-dom": "^6.2.0",
