@@ -1,5 +1,5 @@
 {
-  "name": "use-cont",
+  "name": "@caasi/use-cont",
   "version": "0.0.1",
   "description": "One hook to rule them all.",
   "main": "./dist/index.js",
